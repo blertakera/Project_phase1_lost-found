@@ -1,5 +1,5 @@
 # Project_phase1_lost-found
-Software Engimeering Project Phase 1 
+Software Engineering Project Phase 1 
 # Team Information
 
 ## Team Name: Lost&Found Team
