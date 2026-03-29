@@ -12,7 +12,7 @@ Software Engimeering Project Phase 1
 ## Team Members:
 1. Blerta Kera - GitHub: blertakera - Email: blerta.kera@icloud.com  
 2. Suada Xhameta - GitHub: suadaxhameta - Email: suadaxhameta9@gmail.com   
-3. Enisa Cela - GitHub: enisacela - Email: ecela25@epoka.edu.al  
+3. Enisa Cela - GitHub: enisacela - Email: encela25@epoka.edu.al  
 
 
 # Project Details
